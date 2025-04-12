@@ -9,7 +9,7 @@ Whether it’s quick data analysis, playing around with ML, or just trying out s
 
 ## 📦 Environment Management
 
-I'm using **Miniconda** to manage environments – it's lightweight and lets you control the Python version per project.
+I'm using **Miniconda** to manage environments.
 
 ### ▶️ How to install Miniconda (on Windows)
 
@@ -17,4 +17,5 @@ I'm using **Miniconda** to manage environments – it's lightweight and lets you
 2. Download the installer:
 
    ```powershell
-   wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -OutFile ".\Downloads\Miniconda3-latest-Windows-x86_64.exe"
+   wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -OutFile ".\Downloads\Miniconda3-latest-Windows-x86_64.exe"   
+3. ADD PATH and ignore the HINT
