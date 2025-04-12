@@ -26,3 +26,9 @@ or delete WARNING check the environtment-name i chose 'fractals-env':
 conda remove -n fractals-env --all
 ```
 
+##Troubleshooting 
+activation not working:
+maybe you need to execute to enable scripts
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
