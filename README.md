@@ -1,7 +1,20 @@
-Welcome ;)
-here I will show my Python Test Projects
+# 🧪 JupyterNotebooks
 
-For the environment management i use miniconda.
-To install miniconda:
-1: Terminal: wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -outfile ".\Downloads\Miniconda3-latest-Windows-x86_64.exe"
-2: install - btw. ADD PATH and ignore the retarded hint!!!!!!
+Welcome 😉
+
+Here I collect and share my Python projects, mostly built with Jupyter Notebooks.  
+Whether it’s quick data analysis, playing around with ML, or just trying out some packages.
+
+---
+
+## 📦 Environment Management
+
+I'm using **Miniconda** to manage environments – it's lightweight and lets you control the Python version per project.
+
+### ▶️ How to install Miniconda (on Windows)
+
+1. Open Terminal (e.g. PowerShell)
+2. Download the installer:
+
+   ```powershell
+   wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -OutFile ".\Downloads\Miniconda3-latest-Windows-x86_64.exe"
