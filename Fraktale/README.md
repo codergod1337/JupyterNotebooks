@@ -11,6 +11,6 @@ This folder contains experiments related to **fractals** especially visual repre
 I recommend creating a dedicated Conda environment for this module:
 
 ```bash
-conda create -n fractals-env python=3.13
+conda create -n fractals-env python=3.12.9
 conda activate fractals-env
-pip install jupyter matplotlib numpy
+conda install jupyter matplotlib numpy
