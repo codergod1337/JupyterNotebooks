@@ -13,7 +13,7 @@ I recommend creating a dedicated Conda environment for this module:
 ```bash
 conda create -n fractals-env python=3.12.9
 conda activate fractals-env
-conda install jupyter matplotlib numpy ipywidgets sympy
+conda install jupyter matplotlib numpy ipywidgets sympy pandas
 ```
 
 remember you can deactivate the environment again:
