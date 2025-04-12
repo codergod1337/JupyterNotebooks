@@ -22,3 +22,5 @@ conda deactivate
 or delete WARNING check the environtment-name i chose 'fractals-env':
 ```bash
 conda remove -n fractals-env --all
+
+
