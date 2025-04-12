@@ -19,9 +19,10 @@ conda install jupyter matplotlib numpy
 remember you can deactivate the environment again:
 ```bash
 conda deactivate
+```
 
 or delete WARNING check the environtment-name i chose 'fractals-env':
 ```bash
 conda remove -n fractals-env --all
-
+```
 
