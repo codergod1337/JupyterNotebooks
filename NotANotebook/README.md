@@ -15,6 +15,7 @@ conda create -n thomas python=3.12.9
 conda activate thomas
 conda install ipython matplotlib numpy rich sympy pandas
 ```
+to activate in VS Code press ctrl + shift + p and select correct environment!
 
 remember you can deactivate the environment again:
 ```bash
