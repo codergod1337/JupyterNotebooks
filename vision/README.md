@@ -4,7 +4,7 @@ This folder contains notebooks related to machine vision.
 
 ## 🧠 Contents
 
-- `files.ipynb`: desc
+- `1vision.ipynb`: basics! loading image, opencv, convolution, filter, merging
 
 ## 🧪 Environment Setup via miniConda
 
