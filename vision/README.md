@@ -4,7 +4,7 @@ This folder contains notebooks related to machine vision.
 
 ## 🧠 Contents
 
-- `files.ipynb`: desc
+- `1vision.ipynb`: basics! loading image, opencv, convolution, filter, merging
 
 ## 🧪 Environment Setup via miniConda
 
@@ -13,7 +13,7 @@ I recommend creating a dedicated Conda environment for this module:
 ```bash
 conda create -n vision python=3.12.9
 conda activate vision
-conda install jupyter matplotlib numpy ipywidgets sympy pandas ipympl
+pip install jupyter matplotlib numpy ipywidgets sympy pandas ipympl imutils torch opencv-python 
 ```
 
 remember you can deactivate the environment again:
