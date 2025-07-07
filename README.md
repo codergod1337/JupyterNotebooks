@@ -1,9 +1,7 @@
 # 🧪 JupyterNotebooks
 
 Welcome 😉
-
-Here I collect and share my Python projects, mostly built with Jupyter Notebooks.  
-Whether it’s quick data analysis, playing around with ML, or just trying out some packages.
+here I will cerab issues form my lectures
 
 ---
 
